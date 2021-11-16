@@ -1,0 +1,10 @@
+pandas
+cleantext
+scikit-learn
+torch
+transformers
+matplotlib
+mlxtend
+seaborn
+Unidecode
+nltk
